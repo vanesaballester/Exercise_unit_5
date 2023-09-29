@@ -1,0 +1,4 @@
+Muebles:
+mesa
+silla
+armario
